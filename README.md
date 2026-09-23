@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python for Machine Learning**
 
-- 📫 How to reach me **22crazy.learning22@gmail.com**
+- 📫 How to reach me **bhavika.sri.02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
